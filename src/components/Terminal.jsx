@@ -36,21 +36,21 @@ export default function UniqueTerminalPortfolio() {
       icon: Code,
       title: "Skills",
       content:
-        "• HTML, CSS & JavaScript\n• React.js\n• Node.js\n• Firebase\n• MongoDB\n• Git & GitHub\n",
+        "• HTML, CSS & JavaScript\n• React.js\n• Node.js\n• Firebase\n• MongoDB\n• MySQL\n• C & C++\n• Git & GitHub\n",
     },
     {
       id: "projects",
       icon: Briefcase,
       title: "Projects",
       content:
-        "1. Virtual Herbal Garden : A project that showcases different herbs with a chatbot integrated to provide detailed information.\n\n2. Web Development Mini Projects: A collection of mini projects demonstrating various web development skills, including BMI Calculator, Quiz Game, and Weather Watch.\n",
+        "1. Virtual Herbal Garden : A project that showcases different herbs with a chatbot integrated to provide detailed information.\n\n2. Web Development Mini Projects: A collection of mini projects demonstrating various web development skills, including BMI Calculator, Quiz Game, and Weather Watch.\n\n3.QR-Code-Generator : The QR Code Generator is a simple and intuitive web application that allows users to create custom QR codes for any text or URL. It provides a fast, user-friendly experience with options to download and share the generated QR codes.\n\n4.ache_wale_bhaiya : Ache Wale Bhaiya is an e-commerce platform dedicated to selling both new tech products and second-hand tech gadgets. Whether you're looking for affordable used tech or the latest hardware components like DC motors, male jumper wires, and more, this platform has got you covered!",
     },
     {
       id: "contact",
       icon: Mail,
       title: "Contact",
       content:
-        "Email: shauryaupadhyay@example.com\nGitHub: github.com/Shaurya01836\nLinkedIn: linkedin.com/in/shaurya-upadhyay\nTwitter: @Shaurya01836",
+        "Email: shaurya01836@gmail.com\nGitHub: github.com/Shaurya01836\nLinkedIn: linkedin.com/in/shaurya-upadhyay\nTwitter: @Shaurya01836",
     },
   ];
 
